@@ -1,0 +1,10 @@
+mkdir
+
+npm init -y or init
+
+npm install express
+
+npm install nodemon
+
+npm install ejs
+
